@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.exe.config
+C:\Users\Owner\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.exe
+C:\Users\Owner\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.pdb
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.frmTester.resources
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.Properties.Resources.resources
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.exe
+C:\Users\Owner\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.pdb
