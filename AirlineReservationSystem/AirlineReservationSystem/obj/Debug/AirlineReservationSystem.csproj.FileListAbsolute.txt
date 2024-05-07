@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.exe.config
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.exe
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.pdb
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.frmReservation.resources
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.frmEditDelete.resources
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.frmPassengerLookup.resources
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.Properties.Resources.resources
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.exe
+C:\Users\Owner\source\repos\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.pdb
